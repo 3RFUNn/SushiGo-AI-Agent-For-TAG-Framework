@@ -1,4 +1,5 @@
-# Running Experiments with TAG Framework
+# Running Experiments with [TAG Framework](https://tabletopgames.ai/)
+
 
 This guide provides instructions to set up and run experiments in the Tabletop Games (TAG) framework using custom configurations.
 
