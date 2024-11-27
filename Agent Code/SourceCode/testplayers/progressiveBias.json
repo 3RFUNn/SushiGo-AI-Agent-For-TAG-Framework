@@ -1,0 +1,11 @@
+{
+	"class" : "players.progressiveBias_Lab.progressiveBiasParams",
+	"K" : 5.0,
+	"rolloutLength" : 0,
+	"maxTreeDepth" : 30,
+	"heuristic" : {
+		"class" : "games.sushigo.SushiGoHeuristic"
+	},
+	"budgetType" : "BUDGET_FM_CALLS",
+	"budget" : 1000
+}
