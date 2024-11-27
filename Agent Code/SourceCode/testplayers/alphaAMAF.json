@@ -1,0 +1,11 @@
+{
+    "class" : "players.alphaAMAF.alphaAMAF",
+    "K" : 1.4,
+    "rolloutLength" : 30,
+    "maxTreeDepth" : 100,
+    "budgetType" : "BUDGET_FM_CALLS",
+    "budget" : 1000,
+    "heuristic": {
+        "class" : "games.sushigo.SushiGoHeuristic"
+    }
+}
